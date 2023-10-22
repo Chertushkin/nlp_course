@@ -7,6 +7,13 @@ week01_embeddings/cc.uk.300.vec.zip
 week03_lm/arxivData.json
 week03_lm/arxivData.json.tar.gz
 week03_lm/beam_search.html
+week04_seq2seq/bpe_rules.*
+week04_seq2seq/train.bpe.*
+week04_seq2seq/train.*
+week04_seq2seq/log
+
+
+
 
 # node and NPM
 npm-debug.log
