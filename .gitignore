@@ -17,6 +17,8 @@ week05_transfer/*.pt
 
 week06_llm/ai21_key.txt
 
+week_extra/retrieval/log
+week_extra/retrieval/squad-v2.0.json
 
 # node and NPM
 npm-debug.log
