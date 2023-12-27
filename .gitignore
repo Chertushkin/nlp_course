@@ -19,6 +19,8 @@ week06_llm/ai21_key.txt
 
 week_extra/retrieval/log
 week_extra/retrieval/squad-v2.0.json
+week_extra/retrieval/answer_vectorizer.pt
+week_extra/retrieval/question_vectorizer.pt
 
 # node and NPM
 npm-debug.log
