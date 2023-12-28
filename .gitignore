@@ -23,6 +23,11 @@ week_extra/retrieval/answer_vectorizer.pt
 week_extra/retrieval/question_vectorizer.pt
 week_extra/retrieval/answer_vectorizer_hard_neg.pt
 week_extra/retrieval/question_vectorizer_hard_neg.pt
+week_extra/retrieval/answer_vectorizer_2.pt
+week_extra/retrieval/answer_vectorizer_hard_neg_2.pt
+week_extra/retrieval/question_vectorizer_2.pt
+week_extra/retrieval/question_vectorizer_hard_neg_2.pt
+week_extra/retrieval/lightning_logs/
 
 # node and NPM
 npm-debug.log
